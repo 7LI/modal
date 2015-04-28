@@ -8,7 +8,7 @@
     - title   {String}   Modal title html
     - content {String}   Modal content html
     - close   {Function} Callback when modal is closed
-    - scroll  {Boolean}  Call document scroll
+    - scroll  {Boolean}  Can document scroll
 
   @usage
     modal({
