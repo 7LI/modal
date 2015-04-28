@@ -1,0 +1,26 @@
+{
+  "name": "modal",
+  "version": "0.0.1",
+  "homepage": "https://github.com/7LI/modal",
+  "authors": [
+    "lyz <702368372@qq.com>"
+  ],
+  "description": "Accurate touch slider for mordern browser",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "modal"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.16"
+  }
+}
