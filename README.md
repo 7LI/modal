@@ -2,7 +2,7 @@ Hello modal
 =========
 modal component
 
-[Try a demo.](http://7li.github.io/components/modal/)
+[Try a demo.](http://liuyanzhi08.github.io/components/modal/)
 
 ## Config Options
 
